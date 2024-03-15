@@ -1,0 +1,7 @@
+.title {
+  padding-bottom: 1em;
+}
+
+.title::first-letter {
+  text-transform: capitalize;
+}
